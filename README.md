@@ -2,10 +2,10 @@
 
 ## Overview 
 
-In this repository, supervised machine learning was used to compare the Logistic Regression model and Random Forest Classifier modelin its ability to classify the risk level of given loans. Jupyter Notebook was used to train, test, compare, and fit these models. 
+In this repository, supervised machine learning was used to compare the Logistic Regression model and Random Forest Classifier model in its ability to classify the risk level of loans. Jupyter Notebook was used to train, test, compare, and fit these models. 
 
 #### Prediction:
-The Random Forests Classifier model will perform better because it is not easily affect by outliers or rely on the data being in a linear formation as logisitic regression models do. The Random Forests Classifier model uses averaging to make predictions for the model.
+The Random Forests Classifier model will perform better because it is not easily affect by outliers or rely on the data being in a linear formation as Logisitic Regression models do. The Random Forests Classifier model uses averaging to make predictions for the model.
 
 ### Split the Data into Training and Testing Sets
 The data was split into training and testing sets. The x value was determined by removing the 'loan_status' column. The y value was determined by using the 'loan_status' column. 
